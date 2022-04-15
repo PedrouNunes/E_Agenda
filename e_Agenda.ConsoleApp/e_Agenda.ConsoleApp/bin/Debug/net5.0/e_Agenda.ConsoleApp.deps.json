@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "e_Agenda.ConsoleApp/1.0.0": {
+        "runtime": {
+          "e_Agenda.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e_Agenda.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
